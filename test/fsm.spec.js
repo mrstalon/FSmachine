@@ -14,7 +14,7 @@ const config = {
         busy: {
             transitions: {
                 get_tired: 'sleeping',
-                get_hungry: 'hungry',
+                get_hungry: 'hungry',               
             }
         },
         hungry: {
